@@ -13,7 +13,7 @@
     [x] Make the relationship two sided
     [ ] Object Collaboration
 
-[ ] Dog/Owner Example
+[x] Dog/Owner Example
 [ ] Post/Author Example
 
 [x] Student/Course/Enrollment
