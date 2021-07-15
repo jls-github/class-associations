@@ -14,7 +14,7 @@
     [ ] Object Collaboration
 
 [x] Dog/Owner Example
-[ ] Post/Author Example
+[x] Post/Author Example
 
 [x] Student/Course/Enrollment
     [x] Join Class
